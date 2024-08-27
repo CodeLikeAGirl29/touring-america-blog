@@ -2,6 +2,10 @@
 
 Welcome to my Bootstrap Blog project! This is a fun side project where I built a simple, responsive blog using Bootstrap. The goal was to create a clean, modern blog layout that could easily be adapted for personal or professional use.
 
+[![CodeFactor](https://www.codefactor.io/repository/github/codelikeagirl29/touring-america-blog/badge)](https://www.codefactor.io/repository/github/codelikeagirl29/touring-america-blog)
+
+> Live link can be found [here](https://main--touring-america-blog.netlify.app/)
+
 ## Features
 
 - **Responsive Design**: The blog is fully responsive and looks great on any device, from desktops to smartphones.
