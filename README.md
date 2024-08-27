@@ -22,6 +22,7 @@ To get started with this project, simply clone the repository and open `index.ht
 git clone https://github.com/codelikeagirl29/touring-america-blog.git
 cd touring-america-blog
 open index.html
+```
 
 ## Screenshot
 
